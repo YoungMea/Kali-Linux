@@ -1,5 +1,5 @@
 # Kali-Linux
-                                     #About Kali Linux
+                                     "About Kali Linux"
                                      
 Kali Linux (formerly known as BackTrack Linux) is an open-source, Debian-based Linux distribution which allows users to perform advanced penetration testing and security auditing. It runs on multiple platforms and is freely available and accessible to both information security professionals and hobbyists.
 
@@ -7,7 +7,7 @@ This distribution has several hundred tools, configurations, and scripts with in
 
 This distribution is specifically tailored to the needs of experienced penetration testers, so therefore all documentation on this site assumes prior knowledge of, and familiarity with, the Linux operating system in general. Please see Should I Use Kali Linux? for more details on what makes Kali unique.
 
-                                   Kali Linux Feature
+                                   "Kali Linux Feature"
 
 It is free (as in beer) and always will be: Kali Linux is completely free of charge and always will be. You will never, ever have to pay for Kali Linux.
 
